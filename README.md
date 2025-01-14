@@ -71,12 +71,12 @@ While no external datasets are used, the system processes real-time sensor data 
 
 ## Project Structure
 
-|-- guardian_angel_fall_detection
-    |-- guardian_angel.ino
-    |-- results
-        |-- wiring_diagram.png
-        |-- simulation_screenshot.png
-    |-- README.md
+|-- guardian_angel_fall_detection\
+    |-- guardian_angel.ino\
+    |-- results\
+        |-- wiring_diagram.png\
+        |-- simulation_screenshot.png\
+    |-- README.md\
 
 ---
 
