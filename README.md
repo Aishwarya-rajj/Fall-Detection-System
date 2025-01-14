@@ -24,6 +24,29 @@ While no external datasets are used, the system processes real-time sensor data 
 - **Angular Velocity Data**: To monitor orientation shifts.
 
 ---
+## Flow Chart
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a48f8b7-6e63-4496-a02e-8f08e155ddf1" alt="Fig 1. Flowchart of workflow" />
+</p>
+
+## Hardware Components
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fbfd0ab-2065-4f45-91f0-fe1697bc022f" alt="Fig 2. Hardware connections" />
+</p>
+
+1. *MPU6050 Sensor*: Captures acceleration and angular velocity data.
+2. *ESP8266 Microcontroller*: Processes sensor inputs and manages alerts.
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/43b4975c-53a3-4647-9de0-d2b1674cacfc" alt="Fig 3. Pin diagram of ESP8266" />
+    </p>
+4. *Buzzer & LED*: Indicate alerts and fall detection during testing.
+   
+## Hardware Setup
+   - Connect the *MPU6050* and *ESP8266* according to the wiring diagram in the image.
+
+     <p align="center">
+      <img src="https://github.com/user-attachments/assets/f28f1f37-8d50-4ee5-80f2-b99b418cc557" alt="Fig 4. Simulation showing connections of ESP8266 with MPU6050" />
+     </p>
 
 ## Technologies and Libraries Used
 
