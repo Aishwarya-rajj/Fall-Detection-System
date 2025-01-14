@@ -140,3 +140,9 @@ git clone https://github.com/username/guardian_angel.git
 ## Conclusion
 
 This project demonstrates the potential of sensor-based fall detection systems in ensuring personal safety. By leveraging accelerometric data and user confirmation, *Guardian Angel* provides a scalable and adaptable solution for real-time fall detection. Future iterations will focus on mobile integration, advanced algorithms, and expanded use cases for wearable technology.
+
+## Contributing
+We welcome contributions to make *Guardian Angel* more robust and accessible. You can:
+- Report issues.
+- Suggest new features.
+- Submit pull requests.
