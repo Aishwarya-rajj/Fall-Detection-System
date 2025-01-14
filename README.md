@@ -41,12 +41,6 @@ While no external datasets are used, the system processes real-time sensor data 
     </p>
 4. *Buzzer & LED*: Indicate alerts and fall detection during testing.
    
-## Hardware Setup
-   - Connect the *MPU6050* and *ESP8266* according to the wiring diagram in the image.
-
-     <p align="center">
-      <img src="https://github.com/user-attachments/assets/f28f1f37-8d50-4ee5-80f2-b99b418cc557" alt="Fig 4. Simulation showing connections of ESP8266 with MPU6050" />
-     </p>
 
 ## Technologies and Libraries Used
 
@@ -67,7 +61,12 @@ While no external datasets are used, the system processes real-time sensor data 
 
 ### Key Steps:
 1. **Hardware Setup:**
-   - The MPU6050 is connected to the ESP8266, with buzzer and LED as visual/audio indicators.
+   - Connect the *MPU6050* and *ESP8266* according to the wiring diagram in the image.
+
+     <p align="center">
+      <img src="https://github.com/user-attachments/assets/f28f1f37-8d50-4ee5-80f2-b99b418cc557" alt="Fig 4. Simulation showing connections of ESP8266 with MPU6050" />
+     </p>
+
 
 2. **Baseline Calibration:**
    - The system calculates baseline acceleration over a series of sensor readings during setup to establish a reference for detecting significant deviations.
