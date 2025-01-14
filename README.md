@@ -76,7 +76,7 @@ While no external datasets are used, the system processes real-time sensor data 
     |-- results\
         |-- wiring_diagram.png\
         |-- simulation_screenshot.png\
-    |-- README.md\
+    |-- README.md
 
 ---
 
